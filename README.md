@@ -1,14 +1,13 @@
 # LeetcodeSol
 
-Welcome to **LeetcodeSol**, a repository where I regularly upload my solutions to various problems on [LeetCode](https://leetcode.com/u/Aditi_786/). This serves both as a personal coding journal and a resource for anyone looking to explore problem-solving strategies in **C++**.
+Welcome to **LeetcodeSol**, a repository where I regularly upload my solutions to various problems on [LeetCode](https://leetcode.com). This serves both as a personal coding journal and a resource for anyone looking to explore problem-solving strategies in **C++**.
 
 ---
 
 ## About the Repository
 This repository includes:
-- Optimized and well-documented solutions  
 - Problems ranging from **Easy** to **Hard** difficulty
-- Regularly updated with new solutions  
+- The solutions are easy to understand and comprehend.
 
 ---
 
