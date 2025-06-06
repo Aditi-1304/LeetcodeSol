@@ -6,7 +6,7 @@ Welcome to **LeetcodeSol**, a repository where I regularly upload my solutions t
 
 ## About the Repository
 This repository includes:
-- Problems ranging from **Easy** to **Hard** difficulty
+- Problems ranging from **Medium** to **Hard** difficulty
 - The solutions are easy to understand and comprehend.
 
 ---
