@@ -12,7 +12,8 @@ This repository includes:
 ---
 
 ## Languages Used
-- **C++** 
+- **C++**
+- **SQL**
 
 ---
 
